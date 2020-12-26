@@ -1,0 +1,20 @@
+D:\TOLGA\Okul Örnekleri\24.12.2020_mimarlik\24.12.2020_mimarlik\bin\Debug\24.12.2020_mimarlik.exe.config
+D:\TOLGA\Okul Örnekleri\24.12.2020_mimarlik\24.12.2020_mimarlik\bin\Debug\24.12.2020_mimarlik.exe
+D:\TOLGA\Okul Örnekleri\24.12.2020_mimarlik\24.12.2020_mimarlik\bin\Debug\24.12.2020_mimarlik.pdb
+D:\TOLGA\Okul Örnekleri\24.12.2020_mimarlik\24.12.2020_mimarlik\obj\Debug\24.12.2020_mimarlik.csprojAssemblyReference.cache
+D:\TOLGA\Okul Örnekleri\24.12.2020_mimarlik\24.12.2020_mimarlik\obj\Debug\_24._12._2020_mimarlik.Form1.resources
+D:\TOLGA\Okul Örnekleri\24.12.2020_mimarlik\24.12.2020_mimarlik\obj\Debug\_24._12._2020_mimarlik.Properties.Resources.resources
+D:\TOLGA\Okul Örnekleri\24.12.2020_mimarlik\24.12.2020_mimarlik\obj\Debug\24.12.2020_mimarlik.csproj.GenerateResource.cache
+D:\TOLGA\Okul Örnekleri\24.12.2020_mimarlik\24.12.2020_mimarlik\obj\Debug\24.12.2020_mimarlik.csproj.CoreCompileInputs.cache
+D:\TOLGA\Okul Örnekleri\24.12.2020_mimarlik\24.12.2020_mimarlik\obj\Debug\24.12.2020_mimarlik.exe
+D:\TOLGA\Okul Örnekleri\24.12.2020_mimarlik\24.12.2020_mimarlik\obj\Debug\24.12.2020_mimarlik.pdb
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\24.12.2020_mimarlik\24.12.2020_mimarlik\bin\Debug\24.12.2020_mimarlik.exe.config
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\24.12.2020_mimarlik\24.12.2020_mimarlik\bin\Debug\24.12.2020_mimarlik.exe
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\24.12.2020_mimarlik\24.12.2020_mimarlik\bin\Debug\24.12.2020_mimarlik.pdb
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\24.12.2020_mimarlik\24.12.2020_mimarlik\obj\Debug\24.12.2020_mimarlik.csprojAssemblyReference.cache
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\24.12.2020_mimarlik\24.12.2020_mimarlik\obj\Debug\_24._12._2020_mimarlik.Form1.resources
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\24.12.2020_mimarlik\24.12.2020_mimarlik\obj\Debug\_24._12._2020_mimarlik.Properties.Resources.resources
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\24.12.2020_mimarlik\24.12.2020_mimarlik\obj\Debug\24.12.2020_mimarlik.csproj.GenerateResource.cache
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\24.12.2020_mimarlik\24.12.2020_mimarlik\obj\Debug\24.12.2020_mimarlik.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\24.12.2020_mimarlik\24.12.2020_mimarlik\obj\Debug\24.12.2020_mimarlik.exe
+C:\Users\Administrator.WIN-RC0OD14LN76\Desktop\24.12.2020_mimarlik\24.12.2020_mimarlik\obj\Debug\24.12.2020_mimarlik.pdb
